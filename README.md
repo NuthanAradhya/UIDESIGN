@@ -1,2 +1,2 @@
 # UIDESIGN
-its just a Small UI Project
+Card layout in Typescript
